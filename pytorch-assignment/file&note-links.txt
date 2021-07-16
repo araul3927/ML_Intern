@@ -1,0 +1,5 @@
+
+# Project file on Kaggle
+https://www.kaggle.com/araul3927/home-credit-risk-ann
+
+# Project Notes
