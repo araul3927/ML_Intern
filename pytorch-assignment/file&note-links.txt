@@ -3,4 +3,4 @@
 https://www.kaggle.com/araul3927/home-credit-risk-ann
 
 # Project Notes
-https://docs.google.com/document/d/1L8n7lj_DdExwLA31fGs0dzQzIGeMFGHmRFyoSW_S3AQ/edit
+https://docs.google.com/document/d/1L8n7lj_DdExwLA31fGs0dzQzIGeMFGHmRFyoSW_S3AQ/edit?usp=sharing
